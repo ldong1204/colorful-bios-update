@@ -1,0 +1,8 @@
+{
+  "name": "colorful-bios-update",
+  "description": "Step-by-step BIOS update guide for Colorful (七彩虹) Battle Axe B360M series motherboards using Intel FPT DOS method. Supports i7-9700F and other 9th-gen CPU upgrades.",
+  "author": {
+    "name": "yangdonghua321",
+    "email": "yangdonghua321@gmail.com"
+  }
+}
